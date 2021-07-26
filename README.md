@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning HTML & CSS 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Do Blogging and play with my code.
+- 🔭 I’m currently working on HTML
+- 💬 Ask me about **HTML & CSS**
+- 📫 How to reach me **learningmilestoneofficial@gmail.com**
+
 
 ### Connect with me:
 
@@ -15,8 +19,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
 
 <br />
 <br />
