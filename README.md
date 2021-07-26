@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Anant Goyal</h1>
 <h3 align="center">A Programmer and a Blogger</h3>
 
-- 🌱 I’m currently learning HTML & CSS 🤣
+- 🌱 I’m currently learning HTML & CSS
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Do Blogging and play with my code.
 - 🔭 I’m currently working on HTML
 - 💬 Ask me about **HTML & CSS**
-- 📫 How to reach me **learningmilestoneofficial@gmail.com**
+- 📫 How to reach me Message me on this email id **learningmilestoneofficial@gmail.com**
 
 
 
