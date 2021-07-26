@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://drive.google.com/file/d/1yDx8O0-aqWfH1dB9MfRlWnbeg-A2UJXV/preview" width="640" height="480" allow="autoplay"></iframe>)](https://github.com/Anant-Goyal)
+
 <h1 align="center">Hi 👋, I'm Anant Goyal</h1>
 <h3 align="center">A Programmer and a Blogger</h3>
 
